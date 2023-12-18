@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>690105664449-7crsvb0hgrf3mfsbtmnm2372kmpfj51v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.690105664449-7crsvb0hgrf3mfsbtmnm2372kmpfj51v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQgqZbChpOD1DWfBH1ybUABzim0UZ3Dds</string>
+	<key>GCM_SENDER_ID</key>
+	<string>690105664449</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Vindel.Dream-App</string>
+	<key>PROJECT_ID</key>
+	<string>dream-app-4633c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dream-app-4633c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:690105664449:ios:48a62878687a13f3c6e540</string>
+</dict>
+</plist>
