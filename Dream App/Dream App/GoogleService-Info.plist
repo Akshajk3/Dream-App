@@ -19,16 +19,18 @@
 	<key>STORAGE_BUCKET</key>
 	<string>dream-app-4633c.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:690105664449:ios:48a62878687a13f3c6e540</string>
+	<key>DATABASE_URL</key>
+	<string>https://dream-app-4633c-default-rtdb.firebaseio.com/</string>
 </dict>
 </plist>
